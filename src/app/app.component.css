@@ -1,0 +1,51 @@
+.pub{
+    width: 100%;
+}
+.pub1 img{
+    width: 50%;
+    float: left;
+    height: auto;
+}
+.pub2 img{
+    width: 50%;
+    float: right;
+    height: auto;
+}
+.btn{
+    width: 300px;
+    height: 60px;
+    cursor: pointer;
+    color:#fff;
+    background-color: #000;
+    margin-left: 600px;
+   margin-top:50px;
+}
+.btn:hover{
+   
+    background-color:rgb(136, 16, 16) ;
+  
+}
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+   
+    background-size: cover;
+  }
+  .example-card{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  }
+  .box {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    width:1400px;
+    height: auto;
+    margin-left: 50px;
+  }
+  mat-icon{
+    content:cursor;
+  }

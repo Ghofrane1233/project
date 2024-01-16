@@ -1,0 +1,31 @@
+.box{
+    background-color: #14317a;
+    color: #fff;
+    width:879px;
+    height: 485px;
+    
+}
+.box1 img{
+   margin-left:-111px;
+    width:800px;
+    height: 485px;
+}
+.box h2{
+    font: italic small-caps bold 40px,
+        sans-serif;
+        text-align: center;
+        color: black;
+     
+
+}
+.Text{
+    text-align: center;
+}
+.Text h4{
+    font: italic small-caps bold 30px , Arial,
+        sans-serif;
+        text-align: center;
+        color: rgb(180, 172, 172);
+     
+
+}

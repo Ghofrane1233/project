@@ -1,0 +1,21 @@
+.box{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.product {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  top: 10%;
+  left: 60%;
+}
+
+.desc {
+  text-transform: none;
+  letter-spacing: 0;
+  margin-bottom: 17px;
+  color:dark;
+  font-size: .7em;
+  line-height: 1.6em;
+  margin-right: 25px;
+  text-align: justify;
+}
